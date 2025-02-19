@@ -178,6 +178,7 @@ h6 {
   font-size: 24px;
   margin: 0;
   font-weight: 700;
+  text-align: center;
   color: var(--heading-color);
 }
 
